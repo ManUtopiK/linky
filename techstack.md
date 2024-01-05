@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ManUtopiK/linky](https://github.com/ManUtopiK/linky)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|12/14/23 <br/>Report generated|
+|12<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -116,15 +116,16 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (4)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[ava](https://www.npmjs.com/ava)|v1.2.0|10/31/18|Boris Kubiak |MIT|N/A|
 |[dayjs](https://www.npmjs.com/dayjs)|v1.8.17|12/05/19|Boris Kubiak |MIT|N/A|
 |[nyc](https://www.npmjs.com/nyc)|v14.1.1|10/31/18|Boris Kubiak |ISC|N/A|
+|[xo](https://www.npmjs.com/xo)|v0.23.0|10/31/18|Boris Kubiak |MIT|N/A|
 
 <br/>
 <div align='center'>
